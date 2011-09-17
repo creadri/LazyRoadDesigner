@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: #fff6e5;
+    color: #6f5014;
+}
+
+h1 {
+    font-size: 24px;
+    /*color: #003;*/
+}
+
+h2 {
+    font-size: 12px;
+    font-weight: bold;
+    /*color: #036;*/
+}
+
+p {
+    background-color: #ffdc97;
+    color: #000000;
+}

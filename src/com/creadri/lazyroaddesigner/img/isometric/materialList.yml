@@ -1,0 +1,312 @@
+Stone:
+  id: 1
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/1.0.png
+Grass:
+  id: 2
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/2.0.png
+Dirt:
+  id: 3
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/3.0.png
+Cobble:
+  id: 4
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/4.0.png
+Wooden Plank:
+  id: 5
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/5.0.png
+Bedrock:
+  id: 7
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/7.0.png
+Water:
+  id: 9
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/8.0.png
+Sand:
+  id: 12
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/12.0.png
+Iron Ore:
+  id: 15
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/15.0.png
+Coal Ore:
+  id: 16
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/16.0.png
+Wood Usual:
+  id: 17
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/17.0.png
+Wood Spruce:
+  id: 17
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/isometric/17.0.png
+Wood Birch:
+  id: 17
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/isometric/17.0.png
+Leaves Usual:
+  id: 18
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/18.0.png
+Leaves Spruce:
+  id: 18
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/isometric/18.0.png
+Leaves Birch:
+  id: 18
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/isometric/18.0.png
+Sponge:
+  id: 19
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/19.0.png
+Glass:
+  id: 20
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/20.0.png
+Lapis Ore:
+  id: 21
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/21.0.png
+Lapis Block:
+  id: 22
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/22.0.png
+Dispenser:
+  id: 23
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/23.0.png
+Sandstone:
+  id: 24
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/24.0.png
+Note Block:
+  id: 25
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/25.0.png
+Sticky Piston:
+  id: 29
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/29.0.png
+Piston:
+  id: 33
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/33.0.png
+Wool White:
+  id: 35
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.0.png
+Wool Orange:
+  id: 35
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.1.png
+Wool Magenta:
+  id: 35
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.2.png
+Wool Light Blue:
+  id: 35
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.3.png
+Wool Yellow:
+  id: 35
+  data: 4
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.4.png
+Wool Light Green:
+  id: 35
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.5.png
+Wool Pink:
+  id: 35
+  data: 6
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.6.png
+Wool Gray:
+  id: 35
+  data: 7
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.7.png
+Wool Light Gray:
+  id: 35
+  data: 8
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.8.png
+Wool Cyan:
+  id: 35
+  data: 9
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.9.png
+Wool Purple:
+  id: 35
+  data: 10
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.10.png
+Wool Blue:
+  id: 35
+  data: 11
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.11.png
+Wool Brown:
+  id: 35
+  data: 12
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.12.png
+Wool Dark Green:
+  id: 35
+  data: 13
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.13.png
+Wool Red:
+  id: 35
+  data: 14
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.14.png
+Wool Black:
+  id: 35
+  data: 15
+  img: /com/creadri/lazyroaddesigner/img/isometric/35.15.png
+Gold Block:
+  id: 41
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/41.0.png
+Iron Block:
+  id: 42
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/42.0.png
+Double Stone Stabs:
+  id: 43
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/43.0.png
+Double SandStone Stabs:
+  id: 43
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/isometric/24.0.png
+Double Wood Stabs:
+  id: 43
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/isometric/5.0.png
+Double Cobble Stabs:
+  id: 43
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/isometric/4.0.png
+Double Stone Stabs:
+  id: 43
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/43.0.png
+Stabs Stone:
+  id: 44
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/44.0.png
+Brick Block:
+  id: 45
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/45.0.png
+TNT:
+  id: 46
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/46.0.png
+Bookshelf:
+  id: 47
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/47.0.png
+Moss Stone:
+  id: 48
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/48.0.png
+Obsidian:
+  id: 49
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/49.0.png
+Torch:
+  id: 50
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/isometric/50.0.png
+Wooden Stairs:
+  id: 53
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/53.0.png
+Chest:
+  id: 54
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/54.0.png
+Diamond Ore:
+  id: 56
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/56.0.png
+Crafting Table:
+  id: 58
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/58.0.png
+Farmland:
+  id: 60
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/60.0.png
+Furnace:
+  id: 61
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/61.0.png
+Sign:
+  id: 63
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/63.0.png
+Cobblestone Stairs:
+  id: 67
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/67.0.png
+Wall Sign:
+  id: 68
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/63.0.png
+Redstone Ore:
+  id: 73
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/73.0.png
+Restone Torch:
+  id: 76
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/isometric/76.0.png
+Ice:
+  id: 79
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/79.0.png
+Snow Block:
+  id: 80
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/80.0.png
+Cactus:
+  id: 81
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/81.0.png
+Clay Block:
+  id: 82
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/82.0.png
+Jukebox:
+  id: 84
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/84.0.png
+Fence:
+  id: 85
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/85.0.png
+Pumpkin:
+  id: 86
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/86.0.png
+Netherrack:
+  id: 87
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/87.0.png
+Soul Sand:
+  id: 88
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/88.0.png
+Glowstone Block:
+  id: 89
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/89.0.png
+Cake:
+  id: 92
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/92.0.png
+Redstone Repeater:
+  id: 93
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/isometric/93.0.png

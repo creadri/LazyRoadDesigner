@@ -1,0 +1,564 @@
+Value Keeper:
+  id: -1
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/-1.0.png
+Stone:
+  id: 1
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/1.0.png
+Grass:
+  id: 2
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/2.0.png
+Dirt:
+  id: 3
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/3.0.png
+Cobble:
+  id: 4
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/4.0.png
+Wooden Plank:
+  id: 5
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/5.0.png
+Sapling Usual:
+  id: 6
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/6.0.png
+Sapling Spruce:
+  id: 6
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/6.1.png
+Sapling Birch:
+  id: 6
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/6.2.png
+Bedrock:
+  id: 7
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/7.0.png
+Water:
+  id: 9
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/8.0.png
+Lava:
+  id: 11
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/10.0.png
+Sand:
+  id: 12
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/12.0.png
+Gravel:
+  id: 13
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/13.0.png
+Gold Ore:
+  id: 14
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/14.0.png
+Iron Ore:
+  id: 15
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/15.0.png
+Coal Ore:
+  id: 16
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/16.0.png
+Wood Usual:
+  id: 17
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/17.0.png
+Wood Usual:
+  id: 17
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/17.0.png
+Wood Spruce:
+  id: 17
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/17.1.png
+Wood Birch:
+  id: 17
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/17.2.png
+Leaves Usual:
+  id: 18
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/18.0.png
+Leaves Spruce:
+  id: 18
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/18.0.png
+Leaves Birch:
+  id: 18
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/18.0.png
+Sponge:
+  id: 19
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/19.0.png
+Glass:
+  id: 20
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/20.0.png
+Lapis Ore:
+  id: 21
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/21.0.png
+Lapis Block:
+  id: 22
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/22.0.png
+Dispenser:
+  id: 23
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/23.0.png
+Sandstone:
+  id: 24
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/24.0.png
+Note Block:
+  id: 25
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/25.0.png
+Powered Rail:
+  id: 27
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/27.0.png
+Detector Rail:
+  id: 28
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/28.0.png
+Sticky Piston:
+  id: 29
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/29.0.png
+Cobweb:
+  id: 30
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/30.0.png
+Tall Grass:
+  id: 31
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/31.0.png
+Dead Shurbs:
+  id: 32
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/32.0.png
+Piston:
+  id: 33
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/33.0.png
+Wool White:
+  id: 35
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/35.0.png
+Wool Orange:
+  id: 35
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/35.1.png
+Wool Magenta:
+  id: 35
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/35.2.png
+Wool Light Blue:
+  id: 35
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/35.3.png
+Wool Yellow:
+  id: 35
+  data: 4
+  img: /com/creadri/lazyroaddesigner/img/35.4.png
+Wool Light Green:
+  id: 35
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/35.5.png
+Wool Pink:
+  id: 35
+  data: 6
+  img: /com/creadri/lazyroaddesigner/img/35.6.png
+Wool Gray:
+  id: 35
+  data: 7
+  img: /com/creadri/lazyroaddesigner/img/35.7.png
+Wool Light Gray:
+  id: 35
+  data: 8
+  img: /com/creadri/lazyroaddesigner/img/35.8.png
+Wool Cyan:
+  id: 35
+  data: 9
+  img: /com/creadri/lazyroaddesigner/img/35.9.png
+Wool Purple:
+  id: 35
+  data: 10
+  img: /com/creadri/lazyroaddesigner/img/35.10.png
+Wool Blue:
+  id: 35
+  data: 11
+  img: /com/creadri/lazyroaddesigner/img/35.11.png
+Wool Brown:
+  id: 35
+  data: 12
+  img: /com/creadri/lazyroaddesigner/img/35.12.png
+Wool Dark Green:
+  id: 35
+  data: 13
+  img: /com/creadri/lazyroaddesigner/img/35.13.png
+Wool Red:
+  id: 35
+  data: 14
+  img: /com/creadri/lazyroaddesigner/img/35.14.png
+Wool Black:
+  id: 35
+  data: 15
+  img: /com/creadri/lazyroaddesigner/img/35.15.png
+Dandelion:
+  id: 37
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/37.0.png
+Rose:
+  id: 38
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/38.0.png
+Brown Mushroom:
+  id: 39
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/39.0.png
+Red Mushroom:
+  id: 40
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/40.0.png
+Gold Block:
+  id: 41
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/41.0.png
+Iron Block:
+  id: 42
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/42.0.png
+Double Stone Stabs:
+  id: 43
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/43.0.png
+Double SandStone Stabs:
+  id: 43
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/43.1.png
+Double Wood Stabs:
+  id: 43
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/43.2.png
+Double Cobble Stabs:
+  id: 43
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/43.3.png
+Double Stone Stabs:
+  id: 43
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/43.0.png
+Stabs Stone:
+  id: 44
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/44.0.png
+Stabs SandStone:
+  id: 44
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/44.1.png
+Stabs Wood:
+  id: 44
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/44.2.png
+Stabs Cobble:
+  id: 44
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/44.3.png
+Brick Block:
+  id: 45
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/45.0.png
+TNT:
+  id: 46
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/46.0.png
+Bookshelf:
+  id: 47
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/47.0.png
+Moss Stone:
+  id: 48
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/48.0.png
+Obsidian:
+  id: 49
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/49.0.png
+Torch Bottom:
+  id: 50
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/50.5.png
+Torch South:
+  id: 50
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/50.1.png
+Torch North:
+  id: 50
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/50.2.png
+Torch West:
+  id: 50
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/50.3.png
+Torch East:
+  id: 50
+  data: 4
+  img: /com/creadri/lazyroaddesigner/img/50.4.png
+Fire:
+  id: 51
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/51.0.png
+Monster Spawner:
+  id: 52
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/52.0.png
+Wooden Stairs South:
+  id: 53
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/53.0.png
+Wooden Stairs North:
+  id: 53
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/53.1.png
+Wooden Stairs West:
+  id: 53
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/53.2.png
+Wooden Stairs East:
+  id: 53
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/53.3.png
+Chest:
+  id: 54
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/54.0.png
+Redstone Wire:
+  id: 55
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/55.0.png
+Diamond Ore:
+  id: 56
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/56.0.png
+Diamond Block:
+  id: 57
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/57.0.png
+Crafting Table:
+  id: 58
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/58.0.png
+Seeds:
+  id: 59
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/59.0.png
+Farmland:
+  id: 60
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/60.0.png
+Furnace:
+  id: 61
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/61.0.png
+Sign:
+  id: 63
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/63.0.png
+Ladders:
+  id: 65
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/65.0.png
+Rails:
+  id: 66
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/66.0.png
+Cobblestone Stairs South:
+  id: 67
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/67.0.png
+Cobblestone Stairs North:
+  id: 67
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/67.1.png
+Cobblestone Stairs West:
+  id: 67
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/67.2.png
+Cobblestone Stairs East:
+  id: 67
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/67.3.png
+Wall Sign:
+  id: 68
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/63.0.png
+Lever:
+  id: 69
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/69.0.png
+Stone Pressure Plate:
+  id: 70
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/70.0.png
+Wooden Pressure Plate:
+  id: 72
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/72.0.png
+Redstone Ore:
+  id: 73
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/73.0.png
+Redstone Torch Bottom:
+  id: 76
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/76.0.png
+Redstone Torch South:
+  id: 76
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/76.1.png
+Redstone Torch North:
+  id: 76
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/76.2.png
+Redstone Torch West:
+  id: 76
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/76.3.png
+Redstone Torch East:
+  id: 76
+  data: 4
+  img: /com/creadri/lazyroaddesigner/img/76.4.png
+Stone Button:
+  id: 77
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/77.0.png
+Snow:
+  id: 78
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Ice:
+  id: 79
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/79.0.png
+Snow Block:
+  id: 80
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/80.0.png
+Cactus:
+  id: 81
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/81.0.png
+Clay Block:
+  id: 82
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/82.0.png
+Sugar Cane:
+  id: 83
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/83.0.png
+Jukebox:
+  id: 84
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/84.0.png
+Fence:
+  id: 85
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/85.0.png
+Pumpkin:
+  id: 86
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/86.0.png
+Netherrack:
+  id: 87
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/87.0.png
+Soul Sand:
+  id: 88
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/88.0.png
+Glowstone Block:
+  id: 89
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/89.0.png
+Jack-O-Lantern:
+  id: 91
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/91.0.png
+Cake:
+  id: 92
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/92.0.png
+Redstone Repeater:
+  id: 93
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/93.0.png
+Trapdoor:
+  id: 96
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/96.0.png
+Stone SilverFish:
+  id: 97
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/97.0.png
+Stone Brick:
+  id: 98
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/98.0.png
+Stone Brick Mossy:
+  id: 98
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/98.1.png
+Stone Brick Cracked:
+  id: 98
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/98.2.png
+Melon:
+  id: 101
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/101.0.png
+Bars:
+  id: 103
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/103.0.png
+Brick Stairs South:
+  id: 108
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/108.0.png
+Brick Stairs North:
+  id: 108
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/108.1.png
+Brick Stairs West:
+  id: 108
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/108.2.png
+Brick Stairs East:
+  id: 108
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/108.3.png
+Stone Stairs South:
+  id: 109
+  data: 0
+  img: /com/creadri/lazyroaddesigner/img/109.0.png
+Stone Stairs North:
+  id: 109
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/109.1.png
+Stone Stairs West:
+  id: 109
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/109.2.png
+Stone Stairs East:
+  id: 109
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/109.3.png
