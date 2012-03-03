@@ -509,18 +509,26 @@ Trapdoor:
 Stone SilverFish:
   id: 97
   data: 0
-  img: /com/creadri/lazyroaddesigner/img/97.0.png
+  img: /com/creadri/lazyroaddesigner/img/1.0.png
+Stone SilverFish:
+  id: 97
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/4.0.png
+Stone SilverFish:
+  id: 97
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/98.0.png
 Stone Brick:
   id: 98
   data: 0
   img: /com/creadri/lazyroaddesigner/img/98.0.png
 Stone Brick Mossy:
   id: 98
-  data: 0
+  data: 1
   img: /com/creadri/lazyroaddesigner/img/98.1.png
 Stone Brick Cracked:
   id: 98
-  data: 0
+  data: 2
   img: /com/creadri/lazyroaddesigner/img/98.2.png
 Melon:
   id: 101
