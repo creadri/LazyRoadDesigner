@@ -712,68 +712,68 @@ Cake:
   img: /com/creadri/lazyroaddesigner/img/92.0.png
 Redstone Repeater 1 tick North:
   id: 93
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/93.1.png
+Redstone Repeater 1 tick East:
+  id: 93
   data: 0
   img: /com/creadri/lazyroaddesigner/img/93.0.png
-Redstone Repeater 1 tick East:
+Redstone Repeater 1 tick South:
   id: 93
   data: 1
   img: /com/creadri/lazyroaddesigner/img/93.1.png
-Redstone Repeater 1 tick South:
+Redstone Repeater 1 tick West:
   id: 93
   data: 2
   img: /com/creadri/lazyroaddesigner/img/93.2.png
-Redstone Repeater 1 tick West:
-  id: 93
-  data: 3
-  img: /com/creadri/lazyroaddesigner/img/93.3.png
 Redstone Repeater 2 tick North:
-  id: 93
-  data: 4
-  img: /com/creadri/lazyroaddesigner/img/93.4.png
-Redstone Repeater 2 tick East:
-  id: 93
-  data: 5
-  img: /com/creadri/lazyroaddesigner/img/93.5.png
-Redstone Repeater 2 tick South:
-  id: 93
-  data: 6
-  img: /com/creadri/lazyroaddesigner/img/93.6.png
-Redstone Repeater 2 tick West:
   id: 93
   data: 7
   img: /com/creadri/lazyroaddesigner/img/93.7.png
+Redstone Repeater 2 tick East:
+  id: 93
+  data: 4
+  img: /com/creadri/lazyroaddesigner/img/93.4.png
+Redstone Repeater 2 tick South:
+  id: 93
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/93.5.png
+Redstone Repeater 2 tick West:
+  id: 93
+  data: 6
+  img: /com/creadri/lazyroaddesigner/img/93.6.png
 Redstone Repeater 3 tick North:
-  id: 93
-  data: 8
-  img: /com/creadri/lazyroaddesigner/img/93.8.png
-Redstone Repeater 3 tick East:
-  id: 93
-  data: 9
-  img: /com/creadri/lazyroaddesigner/img/93.9.png
-Redstone Repeater 3 tick South:
-  id: 93
-  data: 10
-  img: /com/creadri/lazyroaddesigner/img/93.10.png
-Redstone Repeater 3 tick West:
   id: 93
   data: 11
   img: /com/creadri/lazyroaddesigner/img/93.11.png
+Redstone Repeater 3 tick East:
+  id: 93
+  data: 8
+  img: /com/creadri/lazyroaddesigner/img/93.8.png
+Redstone Repeater 3 tick South:
+  id: 93
+  data: 9
+  img: /com/creadri/lazyroaddesigner/img/93.9.png
+Redstone Repeater 3 tick West:
+  id: 93
+  data: 10
+  img: /com/creadri/lazyroaddesigner/img/93.10.png
 Redstone Repeater 4 tick North:
-  id: 93
-  data: 12
-  img: /com/creadri/lazyroaddesigner/img/93.12.png
-Redstone Repeater 4 tick East:
-  id: 93
-  data: 13
-  img: /com/creadri/lazyroaddesigner/img/93.13.png
-Redstone Repeater 4 tick South:
-  id: 93
-  data: 14
-  img: /com/creadri/lazyroaddesigner/img/93.14.png
-Redstone Repeater 4 tick West:
   id: 93
   data: 15
   img: /com/creadri/lazyroaddesigner/img/93.15.png
+Redstone Repeater 4 tick East:
+  id: 93
+  data: 12
+  img: /com/creadri/lazyroaddesigner/img/93.12.png
+Redstone Repeater 4 tick South:
+  id: 93
+  data: 13
+  img: /com/creadri/lazyroaddesigner/img/93.13.png
+Redstone Repeater 4 tick West:
+  id: 93
+  data: 14
+  img: /com/creadri/lazyroaddesigner/img/93.14.png
 Trapdoor North:
   id: 96
   data: 0
