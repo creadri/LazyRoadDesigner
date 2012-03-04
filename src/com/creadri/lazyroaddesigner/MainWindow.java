@@ -286,9 +286,10 @@ public class MainWindow extends javax.swing.JFrame {
         getContentPane().setLayout(new javax.swing.BoxLayout(getContentPane(), javax.swing.BoxLayout.LINE_AXIS));
 
         jspPalette.setMinimumSize(new java.awt.Dimension(100, 300));
-        jspPalette.setPreferredSize(new java.awt.Dimension(150, 300));
+        jspPalette.setPreferredSize(new java.awt.Dimension(300, 450));
 
         jtPalette.setModel(materialTableModel);
+        jtPalette.setFocusable(false);
         jspPalette.setViewportView(jtPalette);
 
         jspMain.setLeftComponent(jspPalette);
@@ -515,11 +516,11 @@ public class MainWindow extends javax.swing.JFrame {
         jpRoadDesigner.setLayout(jpRoadDesignerLayout);
         jpRoadDesignerLayout.setHorizontalGroup(
             jpRoadDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 286, Short.MAX_VALUE)
+            .addGap(0, 499, Short.MAX_VALUE)
         );
         jpRoadDesignerLayout.setVerticalGroup(
             jpRoadDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 436, Short.MAX_VALUE)
+            .addGap(0, 487, Short.MAX_VALUE)
         );
 
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -666,11 +667,11 @@ public class MainWindow extends javax.swing.JFrame {
         jpPillarDesigner.setLayout(jpPillarDesignerLayout);
         jpPillarDesignerLayout.setHorizontalGroup(
             jpPillarDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 286, Short.MAX_VALUE)
+            .addGap(0, 499, Short.MAX_VALUE)
         );
         jpPillarDesignerLayout.setVerticalGroup(
             jpPillarDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 436, Short.MAX_VALUE)
+            .addGap(0, 487, Short.MAX_VALUE)
         );
 
         gridBagConstraints = new java.awt.GridBagConstraints();
