@@ -74,7 +74,7 @@
     <target name="-post-jar">
         <jar jarfile="dist/LazyRoadDesignerBin.jar" filesetmanifest="skip">
             
-            <zipfileset src="../LazyRoad/dist/LazyRoad.jar" excludes="META-INF/*" />
+            <zipfileset src="dist/lib/LazyRoad.jar" excludes="META-INF/*" />
             <zipfileset src="snakeyaml-1.8.jar" excludes="META-INF/*" />
             <zipfileset src="${dist.jar}" />
             <manifest>
