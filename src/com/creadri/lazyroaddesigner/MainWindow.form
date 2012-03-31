@@ -230,7 +230,7 @@
   </NonVisualComponents>
   <Properties>
     <Property name="defaultCloseOperation" type="int" value="3"/>
-    <Property name="title" type="java.lang.String" value="Lazy Road Designer 0.2.2"/>
+    <Property name="title" type="java.lang.String" value="Lazy Road Designer 0.3.0"/>
     <Property name="locationByPlatform" type="boolean" value="true"/>
     <Property name="name" type="java.lang.String" value="lzdesigner" noResource="true"/>
   </Properties>
@@ -634,7 +634,7 @@
                   <Layout>
                     <DimensionLayout dim="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <EmptySpace min="0" pref="499" max="32767" attributes="0"/>
+                          <EmptySpace min="0" pref="513" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                     <DimensionLayout dim="1">
@@ -851,7 +851,7 @@
                   <Layout>
                     <DimensionLayout dim="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <EmptySpace min="0" pref="499" max="32767" attributes="0"/>
+                          <EmptySpace min="0" pref="513" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                     <DimensionLayout dim="1">

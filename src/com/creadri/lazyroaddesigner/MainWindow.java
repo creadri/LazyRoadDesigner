@@ -280,7 +280,7 @@ public class MainWindow extends javax.swing.JFrame {
         jpmPillarPartDelete.add(jmiPillarPartNewPopup);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Lazy Road Designer 0.2.2");
+        setTitle("Lazy Road Designer 0.3.0");
         setLocationByPlatform(true);
         setName("lzdesigner"); // NOI18N
         getContentPane().setLayout(new javax.swing.BoxLayout(getContentPane(), javax.swing.BoxLayout.LINE_AXIS));
@@ -516,7 +516,7 @@ public class MainWindow extends javax.swing.JFrame {
         jpRoadDesigner.setLayout(jpRoadDesignerLayout);
         jpRoadDesignerLayout.setHorizontalGroup(
             jpRoadDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 499, Short.MAX_VALUE)
+            .addGap(0, 513, Short.MAX_VALUE)
         );
         jpRoadDesignerLayout.setVerticalGroup(
             jpRoadDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -667,7 +667,7 @@ public class MainWindow extends javax.swing.JFrame {
         jpPillarDesigner.setLayout(jpPillarDesignerLayout);
         jpPillarDesignerLayout.setHorizontalGroup(
             jpPillarDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 499, Short.MAX_VALUE)
+            .addGap(0, 513, Short.MAX_VALUE)
         );
         jpPillarDesignerLayout.setVerticalGroup(
             jpPillarDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

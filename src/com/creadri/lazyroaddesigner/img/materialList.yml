@@ -18,10 +18,22 @@ Cobble:
   id: 4
   data: 0
   img: /com/creadri/lazyroaddesigner/img/4.0.png
-Wooden Plank:
+Oak Wooden Plank:
   id: 5
   data: 0
   img: /com/creadri/lazyroaddesigner/img/5.0.png
+Pine Wooden Plank:
+  id: 5
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/5.1.png
+Birch Wooden Plank:
+  id: 5
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/5.2.png
+Jungle Wooden Plank:
+  id: 5
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/5.3.png
 Sapling Usual:
   id: 6
   data: 0
@@ -70,7 +82,7 @@ Coal Ore:
   id: 16
   data: 0
   img: /com/creadri/lazyroaddesigner/img/16.0.png
-Wood Usual:
+Wood Oak:
   id: 17
   data: 0
   img: /com/creadri/lazyroaddesigner/img/17.0.png
@@ -86,7 +98,7 @@ Wood Jungle:
   id: 17
   data: 3
   img: /com/creadri/lazyroaddesigner/img/17.3.png
-Leaves Usual:
+Leaves Oak:
   id: 18
   data: 0
   img: /com/creadri/lazyroaddesigner/img/18.0.png
@@ -134,10 +146,18 @@ Dispenser West:
   id: 23
   data: 4
   img: /com/creadri/lazyroaddesigner/img/23.4.png
-Sandstone:
+Normal Sandstone:
   id: 24
   data: 0
   img: /com/creadri/lazyroaddesigner/img/24.0.png
+Hieroglyphic Sandstone:
+  id: 24
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/24.1.png
+Smooth Sandstone:
+  id: 24
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/24.2.png
 Note Block:
   id: 25
   data: 0
@@ -454,18 +474,18 @@ Chest North:
   id: 54
   data: 2
   img: /com/creadri/lazyroaddesigner/img/54.2.png
-Chest East:
-  id: 54
-  data: 5
-  img: /com/creadri/lazyroaddesigner/img/54.5.png
-Chest South:
-  id: 54
-  data: 3
-  img: /com/creadri/lazyroaddesigner/img/54.3.png
-Chest West:
-  id: 54
-  data: 4
-  img: /com/creadri/lazyroaddesigner/img/54.4.png
+#Chest East:
+#  id: 54
+#  data: 5
+#  img: /com/creadri/lazyroaddesigner/img/54.5.png
+#Chest South:
+#  id: 54
+#  data: 3
+#  img: /com/creadri/lazyroaddesigner/img/54.3.png
+#Chest West:
+#  id: 54
+#  data: 4
+#  img: /com/creadri/lazyroaddesigner/img/54.4.png
 Redstone Wire:
   id: 55
   data: 0
@@ -494,18 +514,18 @@ Furnace North:
   id: 61
   data: 2
   img: /com/creadri/lazyroaddesigner/img/61.2.png
-Furnace East:
-  id: 61
-  data: 5
-  img: /com/creadri/lazyroaddesigner/img/61.5.png
-Furnace South:
-  id: 61
-  data: 3
-  img: /com/creadri/lazyroaddesigner/img/61.3.png
-Furnace West:
-  id: 61
-  data: 4
-  img: /com/creadri/lazyroaddesigner/img/61.4.png
+#Furnace East:
+#  id: 61
+#  data: 5
+#  img: /com/creadri/lazyroaddesigner/img/61.5.png
+#Furnace South:
+#  id: 61
+#  data: 3
+#  img: /com/creadri/lazyroaddesigner/img/61.3.png
+#Furnace West:
+#  id: 61
+#  data: 4
+#  img: /com/creadri/lazyroaddesigner/img/61.4.png
 Sign:
   id: 63
   data: 0
@@ -630,9 +650,37 @@ Stone Button West:
   id: 77
   data: 2
   img: /com/creadri/lazyroaddesigner/img/77.2.png
-Snow:
+Snow 1 High:
   id: 78
   data: 0
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Snow 2 High:
+  id: 78
+  data: 1
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Snow 3 High:
+  id: 78
+  data: 2
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Snow 4 High:
+  id: 78
+  data: 3
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Snow 5 High:
+  id: 78
+  data: 4
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Snow 6 High:
+  id: 78
+  data: 5
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Snow 7 High:
+  id: 78
+  data: 6
+  img: /com/creadri/lazyroaddesigner/img/78.0.png
+Snow 8 High:
+  id: 78
+  data: 7
   img: /com/creadri/lazyroaddesigner/img/78.0.png
 Ice:
   id: 79
