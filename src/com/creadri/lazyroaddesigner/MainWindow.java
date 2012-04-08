@@ -16,13 +16,7 @@ import com.creadri.lazyroad.Road;
 import com.creadri.lazyroad.RoadPart;
 import java.awt.Image;
 import java.awt.event.MouseEvent;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
+import java.io.*;
 import java.util.Properties;
 import javax.imageio.ImageIO;
 import javax.swing.JOptionPane;
@@ -280,15 +274,16 @@ public class MainWindow extends javax.swing.JFrame {
         jpmPillarPartDelete.add(jmiPillarPartNewPopup);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Lazy Road Designer 0.2.2");
+        setTitle("Lazy Road Designer 0.3.0");
         setLocationByPlatform(true);
         setName("lzdesigner"); // NOI18N
         getContentPane().setLayout(new javax.swing.BoxLayout(getContentPane(), javax.swing.BoxLayout.LINE_AXIS));
 
         jspPalette.setMinimumSize(new java.awt.Dimension(100, 300));
-        jspPalette.setPreferredSize(new java.awt.Dimension(150, 300));
+        jspPalette.setPreferredSize(new java.awt.Dimension(300, 450));
 
         jtPalette.setModel(materialTableModel);
+        jtPalette.setFocusable(false);
         jspPalette.setViewportView(jtPalette);
 
         jspMain.setLeftComponent(jspPalette);
@@ -515,11 +510,11 @@ public class MainWindow extends javax.swing.JFrame {
         jpRoadDesigner.setLayout(jpRoadDesignerLayout);
         jpRoadDesignerLayout.setHorizontalGroup(
             jpRoadDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 286, Short.MAX_VALUE)
+            .addGap(0, 513, Short.MAX_VALUE)
         );
         jpRoadDesignerLayout.setVerticalGroup(
             jpRoadDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 436, Short.MAX_VALUE)
+            .addGap(0, 487, Short.MAX_VALUE)
         );
 
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -666,11 +661,11 @@ public class MainWindow extends javax.swing.JFrame {
         jpPillarDesigner.setLayout(jpPillarDesignerLayout);
         jpPillarDesignerLayout.setHorizontalGroup(
             jpPillarDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 286, Short.MAX_VALUE)
+            .addGap(0, 513, Short.MAX_VALUE)
         );
         jpPillarDesignerLayout.setVerticalGroup(
             jpPillarDesignerLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 436, Short.MAX_VALUE)
+            .addGap(0, 487, Short.MAX_VALUE)
         );
 
         gridBagConstraints = new java.awt.GridBagConstraints();
